@@ -29,7 +29,7 @@ Information here will be condenscend and simplified from these sites:
 
 2. Use this gitpod link https://gitpod.io/#github.com/hpssjellis/Gitpod-auto-tensorflowJS-to-arduino to convert your TensorflowJS model to a c header file calle d model.h . Checkout how big the file is by looking at the last line. Note that the "MyExamples" folder shows how things should eventually look. The "myFolder" is where you do your work. You should be able to click on model.h and see what is contains.
 
-3. For this course we will use the Arduino Create online IDE, but many people will have installed the regular Arduino IDE or the Pro Arduino IDE any of the three can be used even if you don't have the corresponding Arduino board. (Just you can't tell what it does without the board.)
+3. For this course we will use the Arduino Create online IDE, but many people will have installed the regular Arduino IDE or the Pro Arduino IDE any of the three can be used even if you don't have the corresponding Arduino board. (Just you can't tell what it does without the board.) Hopefully youhave generated the model.h file if not we have one for you embedded in the file at https://github.com/hpssjellis/my-examples-for-the-arduino-portentaH7/blob/master/m09-Tensoflow/b02_makerML_xor.ino >we are going to try to get this working on an Arduino. The esaiest should be the Nano 33 BLE Sense. You will need the board installed and Arduino_tensorFlowLite library installed.
 
 
 
